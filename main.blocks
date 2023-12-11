@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="@EEcz~kzn_r(y4mx0NxH" x="338" y="-46"><statement name="HANDLER"><block type="basic_show_icon" id="2K.KR[]ZJKufVTx#zFUG"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><field name="i">IconNames.Heart</field><value name="interval"><shadow type="math_number" id="%1uyEKudEYK.`(WTxCxb"><field name="NUM">600</field></shadow></value><next><block type="device_show_number" id="PO3/8!0C4U)~f-tCPI?L"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="1" _input_init="true"></mutation><value name="number"><shadow type="math_number" id="}Xi5kQWPbYc_mt#5:-oY"><field name="NUM">3</field></shadow></value><value name="interval"><shadow type="math_number" id="BgxIoMxre#Z81DV`5oc,"><field name="NUM">200</field></shadow></value><next><block type="device_show_number" id="k]wC:.wmx?:T898egF^["><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="1" _input_init="true"></mutation><value name="number"><shadow type="math_number" id="0H93c/qO`G:U9h;UfXwn"><field name="NUM">2</field></shadow></value><value name="interval"><shadow type="math_number" id="+B^,RgCN;-DCxKJ{=J!)"><field name="NUM">200</field></shadow></value><next><block type="device_show_number" id="9tTZ`{)p)wz(FH1`YI4W"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="1" _input_init="true"></mutation><value name="number"><shadow type="math_number" id="Xx~mGCqADM]%wkBDLw_y"><field name="NUM">1</field></shadow></value><value name="interval"><shadow type="math_number" id="Ncxn_rqaaVbevpu^PqXJ"><field name="NUM">200</field></shadow></value><next><block type="device_show_number" id="o-e+$EDSv0Gg(NV~pdK~"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="1" _input_init="true"></mutation><value name="number"><shadow type="math_number" id="w.~3[[H~(a.:|x3fEWO2"><field name="NUM">0</field></shadow></value><value name="interval"><shadow type="math_number" id="w.V*z7n@HAR0SmwqMze6"><field name="NUM">200</field></shadow></value><next><block type="device_show_leds" id="YpH|pDSxs?,-U-|jXnl("><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        . # # # . 
+        # # # # # 
+        # . # . #
+        `</field><next><block type="device_show_leds" id="h[vKk,A;`rMYQ41XQ@-T"><field name="LEDS">`
+        . # # # . 
+        . # # # . 
+        # # # # # 
+        # . # . # 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="S9}7?9`ee5hNu]r.]j)n"><field name="LEDS">`
+        . # # # . 
+        # # # # # 
+        # . # . # 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="_Uyy1_,rL$s~$`t:N*R*"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="EQVb)A,,{L$CN^)x$na_"><field name="LEDS">`
+        # . # . # 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="$sejsFE67J]fZHe,bW4|" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="YFolCJIU8U_4E?J.{n)s"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><field name="i">IconNames.Heart</field><value name="interval"><shadow type="math_number" id="QsvJzWC7|v{InPvdA30B"><field name="NUM">600</field></shadow></value><next><block type="device_print_message" id="AdUf2|jjpuHz[W{gN$^k"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="text"><shadow type="text" id="QUUsKYiAb_s.I[yhb/Aw"><field name="TEXT">I</field></shadow></value><value name="interval"><shadow type="math_number" id="Dd*E7^21Zdn})Cztgk-z"><field name="NUM">150</field></shadow></value><next><block type="basic_show_icon" id="`d$Q0`_1n-rEk0m)Q|,v"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><field name="i">IconNames.Heart</field><value name="interval"><shadow type="math_number" id="+S+9;hG+`GEsR]xbeN;p"><field name="NUM">600</field></shadow></value><next><block type="device_print_message" id="e~MxRzM{=V*!@s|FeVJ1"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="text"><shadow type="text" id="b1VBE;`1ywLrVm@}RN%M"><field name="TEXT">Berlin</field></shadow></value><value name="interval"><shadow type="math_number" id="gArt}h/o4F|)8gmNYQbt"><field name="NUM">150</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
